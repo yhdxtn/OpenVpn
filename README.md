@@ -15,7 +15,7 @@
 首先，获取脚本并使其可执行：
 
 ```bash
-curl -O https://raw.githubusercontent.com/angristan/openvpn-install/master/openvpn-install.sh
+curl -O https://github.com/yhdxtn/master/openvpn-install.sh
 chmod +x openvpn-install.sh
 ```
 
